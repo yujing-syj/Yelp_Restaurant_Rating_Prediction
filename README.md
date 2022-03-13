@@ -37,9 +37,7 @@ Data Sourse:
 
 Required libraries:
 
-  import requests
-  
-  from bs4 import BeautifulSoup
+  [ import requests; from bs4 import BeautifulSoup]
   
   import pandas as pd
   
