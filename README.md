@@ -6,27 +6,27 @@ Hello! This is the final project in Python for MACS 30122 Computer Science with 
 
 Instructions to run the code:
 
-  Make sure the data file is in the same directory as the ipython notebook or edit the ipython notebook accordingly.  
-  Make sure to run the notebook in python 3 environment. Make sure all the dependencies used in the notebook are installed in the local machine.
-  Run the code sequentially as given in the notebook.
+- Make sure the data file is in the same directory as the ipython notebook or edit the ipython notebook accordingly.     
+- Make sure to run the notebook in python 3 environment. Make sure all the dependencies used in the notebook are installed in the local machine.     
+- Run the code sequentially as given in the notebook.
 
 
 Files:
 
-  web_scraping.ipynb: IPython notebook showing scraping from Web. tripadvisor and zipatlas.     
-  yelp_reviews_analysis.ipynb: IPython notebook including reviews data clean and analysis.      
-  data_cleaning_and_regression.ipynb: IPython notebook including data clean and analysis for building prediction model.
+- web_scraping.ipynb: IPython notebook showing scraping from Web. tripadvisor and zipatlas.     
+- yelp_reviews_analysis.ipynb: IPython notebook including reviews data clean and analysis.      
+- data_cleaning_and_regression.ipynb: IPython notebook including data clean and analysis for building prediction model.
 
 
 Data Sourse:
 
-  Dataset:
+- Dataset:
   
     Yelp dataset restaurant: https://drive.google.com/file/d/1i3wH2eUaF1tD6fqk-IzPcjkFJQElpMlu/view?usp=sharing
     
     Yelp dataset reviews: https://drive.google.com/file/d/1PG1D6KgEVX5_sJ2TMCD_uxKQFeQsAVKP/view?usp=sharing
     
-  Webscraping:
+- Webscraping:
   
     TripAdvisor: https://www.tripadvisor.com/Attractions-g30196-Activities-c
     
