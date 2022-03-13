@@ -16,6 +16,9 @@ Files:
 - web_scraping.ipynb: IPython notebook showing scraping from Web. tripadvisor and zipatlas.     
 - yelp_reviews_analysis.ipynb: IPython notebook including reviews data clean and analysis.      
 - data_cleaning_and_regression.ipynb: IPython notebook including data clean and analysis for building prediction model.
+- positive-words.txt: Text file listed the positive words in reviews.
+- negative-words.txt: Text file listed the negative words in reviews.
+- csv: Three tables which are data of population density data, data of attraction number, and data of restaurants' information. 
 
 
 Data Sourse:
