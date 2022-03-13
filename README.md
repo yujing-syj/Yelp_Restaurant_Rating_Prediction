@@ -3,6 +3,10 @@
 
 Hello! This is the final project in Python for MACS 30122 Computer Science with Social Science Applications 2 at The University of Chicago. Our project is: Prediction of Austin Restaurants’ Rating. The goal of our project is to help those who want to start a restaurant business in Austin to find the important factors that could affect the restaurant rating, and figure out the contributions of some social science features (population density, people’s reactions and feedback after visiting a restaurant) to the rating. Our team members are: Zhiyun Hu, Xin Li, Linhui Wu, Yujing Sun.
 
+Here is the link for our presentation on how to run the code: 
+
+https://drive.google.com/file/d/16_FtNpMa-EO3BcgWpjtUUz5afvaVzfMT/view?usp=sharing
+
 
 Instructions to run the code:
 
