@@ -16,8 +16,7 @@ Files:
 
   web_scraping.ipynb: IPython notebook showing scraping from Web. tripadvisor and zipatlas.  
   yelp_reviews_analysis.ipynb: IPython notebook including reviews data clean and analysis. 
-  
-  cleaning_regression.ipynb: IPython notebook including data clean and analysis for building prediction model.
+  data_cleaning_and_regression.ipynb: IPython notebook including data clean and analysis for building prediction model.
 
 
 Data Sourse:
