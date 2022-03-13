@@ -1,8 +1,7 @@
 # final-project-genius
-final-project-genius created by GitHub Classroom
 
 
-Hello! This is a final project in Python for MACS 30122 Computer Science with Social Science Applications 2 at The University of Chicago. Our project is: Prediction of Austin Restaurants’ Rating. The goal of our project is: Help those who want to start a restaurant business in Austin to find the important factors that could affect the restaurant rating. Figure out the contributions of some social science features (population density, people’s reactions and feedback after visiting a restaurant) to the rating. Our team members are: Zhiyun Hu, Xin Li, Linhui Wu, Yujing Sun.
+Hello! This is the final project in Python for MACS 30122 Computer Science with Social Science Applications 2 at The University of Chicago. Our project is: Prediction of Austin Restaurants’ Rating. The goal of our project is: Help those who want to start a restaurant business in Austin to find the important factors that could affect the restaurant rating. Figure out the contributions of some social science features (population density, people’s reactions and feedback after visiting a restaurant) to the rating. Our team members are: Zhiyun Hu, Xin Li, Linhui Wu, Yujing Sun.
 
 
 Instructions to run the code:
@@ -14,8 +13,8 @@ Instructions to run the code:
 
 Files:
 
-  web_scraping.ipynb: IPython notebook showing scraping from Web. tripadvisor and zipatlas.  
-  yelp_reviews_analysis.ipynb: IPython notebook including reviews data clean and analysis. 
+  web_scraping.ipynb: IPython notebook showing scraping from Web. tripadvisor and zipatlas.     
+  yelp_reviews_analysis.ipynb: IPython notebook including reviews data clean and analysis.      
   data_cleaning_and_regression.ipynb: IPython notebook including data clean and analysis for building prediction model.
 
 
@@ -37,39 +36,5 @@ Data Sourse:
 
 Required libraries:
 
-  [ import requests; from bs4 import BeautifulSoup]
-  
-  import pandas as pd
-  
-  import numpy as np
-  
-  import json
-  
-  import re
-  
-  import csv
-  
-  import seaborn as sns
-  
-  import matplotlib.pyplot as plt
-  
-  import statsmodels.api as sm
-  
-  from math import pi
-  
-  from collections import Counter
-  
-  from sklearn.preprocessing import StandardScaler
-  
-  from sklearn.feature_extraction import text
-  
-  from bokeh.palettes import Category20c
-  
-  from bokeh.plotting import figure, show
-  
-  from bokeh.transform import cumsum
-  
-  from textblob import TextBlob
-  
-  from wordcloud import WordCloud
+  [ import requests; from bs4 import BeautifulSoup; import pandas as pd; import numpy as np; import json; import re; import csv; import seaborn as sns; import matplotlib.pyplot as plt; import statsmodels.api as sm; from math import pi; from collections import Counter; from sklearn.preprocessing import StandardScaler; from sklearn.feature_extraction import text; from bokeh.palettes import Category20c; from bokeh.plotting import figure, show; from bokeh.transform import cumsum; from textblob import TextBlob; from wordcloud import WordCloud]
   
