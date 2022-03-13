@@ -6,7 +6,7 @@ Hello! This is the final project in Python for MACS 30122 Computer Science with 
 
 Instructions to run the code:
 
-- Make sure to download the dataset provided by Yelp(.josn) in the same directory as the ipython notebook.     
+- Make sure to download the two dataset provided by Yelp(.json) in the same directory as the ipython notebook.     
 - Make sure to run the notebook in python 3 environment. 
 - Make sure all the libraries used in the notebook are installed in the local machine.     
 - Run the notebook in the following sequense: 1) web_scraping.ipynb; 2)yelp_reviews_analysis.ipynb; 3)data_cleaning_and_regression.ipynb.
