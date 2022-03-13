@@ -11,11 +11,14 @@ Instructions to run the code:
   Make sure to run the notebook in python 3 environment. Make sure all the dependencies used in the notebook are installed in the local machine.
   Run the code sequentially as given in the notebook.
 
+
 Files:
 
   web_scraping.ipynb: IPython notebook showing scraping from Web. tripadvisor and zipatlas.  
   yelp_reviews_analysis.ipynb: IPython notebook including reviews data clean and analysis. 
+  
   cleaning_regression.ipynb: IPython notebook including data clean and analysis for building prediction model.
+
 
 Data Sourse:
 
@@ -32,7 +35,9 @@ Data Sourse:
     Population Density: http://zipatlas.com/us/tx/austin/zip-code-comparison/population-density.htm
 
 
+
 Required libraries:
+
   import requests
   
   from bs4 import BeautifulSoup
