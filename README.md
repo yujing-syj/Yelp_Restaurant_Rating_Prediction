@@ -6,8 +6,9 @@ Hello! This is the final project in Python for MACS 30122 Computer Science with 
 
 Instructions to run the code:
 
-- Make sure the data file is in the same directory as the ipython notebook or edit the ipython notebook accordingly.     
-- Make sure to run the notebook in python 3 environment. Make sure all the dependencies used in the notebook are installed in the local machine.     
+- Make sure to download the dataset provided by Yelp(.josn) in the same directory as the ipython notebook.     
+- Make sure to run the notebook in python 3 environment. 
+- Make sure all the libraries used in the notebook are installed in the local machine.     
 - Run the code sequentially as given in the notebook.
 
 
