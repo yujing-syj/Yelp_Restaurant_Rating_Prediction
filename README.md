@@ -9,7 +9,7 @@ Instructions to run the code:
 - Make sure to download the dataset provided by Yelp(.josn) in the same directory as the ipython notebook.     
 - Make sure to run the notebook in python 3 environment. 
 - Make sure all the libraries used in the notebook are installed in the local machine.     
-- Run the code sequentially as given in the notebook.
+- Run the notebook in the following sequense: 1) web_scraping.ipynb; 2)yelp_reviews_analysis.ipynb; 3)data_cleaning_and_regression.ipynb.
 
 
 Files:
