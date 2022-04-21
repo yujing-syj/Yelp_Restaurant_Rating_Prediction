@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wu"
+  given-names: "Linhui"
+- family-names: "Hu"
+  given-names: "Zhiyun"
+- family-names: "Li"
+  given-names: "Xin"
+- family-names: "Sun"
+  given-names: "Yujing"
+title: "final-project-yelp-rating"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-04-21
+url: "https://github.com/cs-ssa-w22/final-project-genius"
