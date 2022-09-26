@@ -17,7 +17,8 @@ https://drive.google.com/file/d/16_FtNpMa-EO3BcgWpjtUUz5afvaVzfMT/view?usp=shari
 - Restaurants that are **opened around community attractions or in crowded neighborhood** are on average have **higher** rating than those who are not.
 - Restaurants with **delivery and pick-up options** on average have nearly 0.1 **lower** rating than the thoes without.
 - **American and Chinese restaurants** on average don't have **high** rating compared with other kinds of restaurants.
-- Our 
+- **We create an interacractive programming tool:** You can type the different kinds of features of the restaurants, we give you the predicting score!
+
 ![image](https://user-images.githubusercontent.com/89925326/192380124-5538019e-dbe6-44ed-9a09-7d2e1b9ff47e.png)
 
 
