@@ -11,6 +11,16 @@ Here is the link for our presentation on how to run the code:
 
 https://drive.google.com/file/d/16_FtNpMa-EO3BcgWpjtUUz5afvaVzfMT/view?usp=sharing
 
+## Interesting Findings
+
+- **Restaurants offer several categories of food** on average have **higher** rating than those who only offer one king of food. 
+- Restaurants that are **opened around community attractions or in crowded neighborhood** are on average have **higher** rating than those who are not.
+- Restaurants with **delivery and pick-up options** on average have nearly 0.1 **lower** rating than the thoes without.
+- **American and Chinese restaurants** on average don't have **high** rating compared with other kinds of restaurants.
+- Our 
+![image](https://user-images.githubusercontent.com/89925326/192380124-5538019e-dbe6-44ed-9a09-7d2e1b9ff47e.png)
+
+
 
 Instructions to run the code:
 
